@@ -460,4 +460,19 @@ __pycache__/
 # should be stored in the .pubxml.user file.
 
 
+# misc
+**/.sass-cache
+**/connect.lock
+**/coverage
+**/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+**/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
 # End of https://www.gitignore.io/api/node,angular,visualstudio,intellij+all,visualstudiocode
